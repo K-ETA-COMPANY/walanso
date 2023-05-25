@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/walanso/static/css/main.62c21f2d.css",
+    "main.js": "/walanso/static/js/main.ebababbb.js",
+    "static/js/787.c207cd89.chunk.js": "/walanso/static/js/787.c207cd89.chunk.js",
+    "static/media/color-sharp2.png": "/walanso/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/head2.png": "/walanso/static/media/head2.40576b9f3cd9ea7b7da8.png",
+    "static/media/caveat-bold.ttf": "/walanso/static/media/caveat-bold.353e6e0ece247d81811f.ttf",
+    "static/media/bg5.jpeg": "/walanso/static/media/bg5.c42c19a45bfbfe91ca02.jpeg",
+    "static/media/JosefinSans-Italic-VariableFont_wght.ttf": "/walanso/static/media/JosefinSans-Italic-VariableFont_wght.5747f005bcd21b1d8b23.ttf",
+    "static/media/contact1.png": "/walanso/static/media/contact1.b36d76478955f78a5190.png",
+    "static/media/JosefinSans-VariableFont_wght.ttf": "/walanso/static/media/JosefinSans-VariableFont_wght.1bfcfba29eda50476f98.ttf",
+    "static/media/footer-bg2.png": "/walanso/static/media/footer-bg2.2efded531eae7453c926.png",
+    "static/media/wal.png": "/walanso/static/media/wal.9b708260fa3da46777bd.png",
+    "static/media/color-sharp3.png": "/walanso/static/media/color-sharp3.e14b5412ac93351e2a07.png",
+    "static/media/revicons.eot": "/walanso/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/walanso/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/walanso/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/walanso/static/media/meter2.c2cd6a1060ba6e253494308c625e6659.svg",
+    "static/media/meter1.svg": "/walanso/static/media/meter1.ecbbcab0038d06f93f9b6f2a4fd30309.svg",
+    "static/media/meter3.svg": "/walanso/static/media/meter3.95d897d7d7181004196a755503615729.svg",
+    "static/media/nav-icon3.svg": "/walanso/static/media/nav-icon3.b05fa405965dab64b2fbfaf6f70f6b3d.svg",
+    "static/media/nav-icon1.svg": "/walanso/static/media/nav-icon1.1c4adc50e35acf0a81edcae611227589.svg",
+    "index.html": "/walanso/index.html",
+    "static/media/nav-icon2.svg": "/walanso/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.62c21f2d.css.map": "/walanso/static/css/main.62c21f2d.css.map",
+    "main.ebababbb.js.map": "/walanso/static/js/main.ebababbb.js.map",
+    "787.c207cd89.chunk.js.map": "/walanso/static/js/787.c207cd89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62c21f2d.css",
+    "static/js/main.ebababbb.js"
+  ]
+}
